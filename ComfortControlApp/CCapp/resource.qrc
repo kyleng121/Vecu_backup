@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>resource/icon/about.png</file>
+        <file>resource/icon/air-con.png</file>
+        <file>resource/icon/back.png</file>
+        <file>resource/icon/car.png</file>
+        <file>resource/icon/car@2x.png</file>
+        <file>resource/icon/car-seat.png</file>
+        <file>resource/icon/command.png</file>
+        <file>resource/icon/drawer.png</file>
+        <file>resource/icon/fan.png</file>
+        <file>resource/icon/fitness.png</file>
+        <file>resource/icon/help.png</file>
+        <file>resource/icon/home.png</file>
+        <file>resource/icon/information.png</file>
+        <file>resource/icon/light.png</file>
+        <file>resource/icon/message.png</file>
+        <file>resource/icon/music.png</file>
+        <file>resource/icon/seatbeltIcon.png</file>
+        <file>resource/icon/seats.png</file>
+        <file>resource/icon/settings.png</file>
+        <file>resource/icon/settingsiconon.png</file>
+        <file>resource/icon/statistics.png</file>
+        <file>resource/icon/windows.png</file>
+        <file>resource/icon/autonomous-car.png</file>
+        <file>resource/icon/exit.png</file>
+        <file>resource/icon/power.png</file>
+        <file>resource/icon/power-off.png</file>
+        <file>resource/style/style.qss</file>
+    </qresource>
+</RCC>

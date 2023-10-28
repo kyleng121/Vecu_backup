@@ -1,0 +1,11 @@
+    #MainWindow{
+        background: #fff;
+    }
+
+    #iconMenu{
+        background-color: #313a46;
+    }
+
+    #leftMenu{
+        background-color: #313a46;
+    }
